@@ -47,4 +47,5 @@ Upper Bound = Q3 + 1.5(IQR)
 = 60.5 + 22.5
 = 83
 
+Task 2: Finding anomalies with z-scores on sheets in loom video
 
